@@ -22,8 +22,8 @@ Built with HTML and CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/cvtqx/qr-code)
+- Live Site URL: [https://cvtqx.github.io/qr-code/](https://cvtqx.github.io/qr-code/)
 
 
 ## Author
