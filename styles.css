@@ -44,18 +44,18 @@ body {
     box-shadow: 2px 2px 10px 1px var(--clr-greyish-blue);
 }
 
-.image{
+.card-image{
     width: 100%;
     border-radius: 15px;
 }
 
-.header{
+.card-header{
    padding: 0 15px;
    font-weight: var(--fw-700);
    font-size: 20px;
 }
 
-.text{
+.card-text{
     font-weight: var(--fw-400);
     color: var(--clr-greyish-blue);
     padding: 0 15px;
@@ -67,4 +67,6 @@ body {
     text-align: center;
     margin-top: 20px;
  }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
